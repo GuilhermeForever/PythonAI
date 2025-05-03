@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <title>Bem-vindo ao Curso de Python com Inteligência Artificial!</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Bem-vindo ao Curso de Python com Inteligência Artificial!</h1>
+        <p>Olá, futuro programador!</p>
+        <p>Você está prestes a embarcar em uma jornada incrível no mundo da programação com Python e Inteligência Artificial. Este curso foi desenvolvido para te guiar desde os primeiros passos até a criação de projetos reais, 
+            utilizando as mais modernas ferramentas de IA.</p>
+
+            ""Aprender Python com IA é mais do que adquirir uma nova habilidade — é enxergar o futuro e se posicionar à frente. Este curso te coloca no controle das ferramentas que estão moldando o mercado global. 
+            De forma prática e acessível, você vai aprender a criar soluções inteligentes, automatizar tarefas e resolver problemas com eficiência.""
+            
+            📌 Aqui você vai aprender a programar mesmo sem saber lógica, usando a IA como ferramenta para criar, testar e melhorar seus códigos.
+            
+            📚 O curso é totalmente prático. A cada aula, você vai:
+                - Fazer perguntas para a IA
+                - Estrutura de programa Python
+                - Criar códigos reais em Python
+                - Aprender a organizar seus arquivos
+                - Criar versões de backup como um programador profissional
+            
+            🎯 Nosso objetivo: que você consiga resolver problemas do mundo real com Python e IA. O LIMITE É SUA IMAGINAÇÃO.
+            
+            🛠️ A SEGUIR VAMOS APRENDER A INSTALAÇÃO DO PYTHON E IDE NO WINDOWS — PASSO A PASSO.
+            
+            VAMOS LÁ?</p>
+            <img src="C:\Users\guilh\OneDrive\Área de Trabalho\FACULDADE GUILHERME\CURSO PYTHON\AULA_01\01_BoasVindas\big_cover_front.png" alt="big_cover-front.png" width="453" height="652">        
+            <footer>Copyright © 2023. Todos os direitos reservados.</footer>
+    </body> 
+
+</html>
