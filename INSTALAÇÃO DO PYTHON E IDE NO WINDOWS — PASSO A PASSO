@@ -1,0 +1,64 @@
+🛠️ INSTALAÇÃO DO PYTHON E IDE NO WINDOWS — PASSO A PASSO
+
+🔹 Objetivo:
+Instalar o Python corretamente e configurar uma IDE para começar a programar.
+
+---
+
+✅ ETAPA 1: BAIXAR O PYTHON
+
+1. Acesse o site oficial: https://www.python.org
+2. Clique em "Downloads" e selecione a versão recomendada para Windows (ex: Python 3.12.x).
+3. Role para baixo até encontrar uma lista de arquivos Python + versão.
+3. Baixe a ultima versão do instalador, por exemplo Python 3.9.22 (April 8, 2025).
+
+---
+
+✅ ETAPA 2: INSTALAR O PYTHON
+
+1. Dê **dois cliques** no instalador.
+2. **IMPORTANTE**: Marque a opção **"Add Python to PATH"**, você encontra na parte inferior da janela, antes de clicar em “Install Now”.
+3. Aguarde a instalação.
+4. Clique em “Close” ao terminar.
+
+🔍 Para testar:
+- Pressione `Win + R`, digite `cmd` e aperte Enter.
+- Digite: `python --version`
+- Se aparecer algo como `Python 3.12.x`, está tudo certo!
+
+---
+
+✅ ETAPA 3: INSTALAR A IDE
+
+🎓 Opção 1: **Thonny** (ideal para iniciantes)
+
+1. Acesse: https://thonny.org
+2. Baixe a versão para Windows e instale.
+3. Abra o Thonny. A interface é simples e pronta para usar.
+
+🎓 Opção 2: **Visual Studio Code (VS Code)** (AVANÇADO)
+
+1. Acesse: https://code.visualstudio.com/
+2. Baixe o instalador e instale.
+3. Ao abrir o VS Code, vá em "Extensões" (ícone de quadrado do lado esquerdo).
+4. Procure e instale a extensão: **Python (by Microsoft)**
+
+---
+
+✅ ETAPA 4: TESTAR O PRIMEIRO CÓDIGO
+
+1. Abra a IDE (Thonny).
+2. Selecione Português (BR) e selecione STANDARD depois " Lets'GO! "
+3. Abrirá uma tela em branco, é nessa tela onde vamos trabalhar nossas ideias e criatividade, lembre-se com sua criatividade associada a lógica da inteligência artificial o céu é o limite.
+4. Digite:
+
+print("Olá, mundo! Estou aprendendo Python com IA.")
+
+5. Salve seu projeto (item salvar canto superior esquerdo)
+6. Dê o nome ao arquivo: `primeiro_codigo.py` 
+Importante, todos os algoritmos em Python devem ser salvo com o nome do arquivo seguido de (.py)
+7. Após salvar click no ícone verde para executar seu primeiro código em Python.
+Você verá a sua mensagem no Shell abaixo da janela do Thonny:
+Olá, mundo! Estou aprendendo Python com IA.
+
+Este é só um exemplo, agora que começa a parte boa ... venha comigo nessa viagem!
